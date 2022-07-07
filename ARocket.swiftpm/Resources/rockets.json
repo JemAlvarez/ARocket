@@ -1,0 +1,214 @@
+[
+  {
+    "id": 0,
+    "name": "Saturn V",
+    "manufacturer": "NASA",
+    "description": "Saturn V was an American human-rated, three-stage, liquid-fueled super heavy-lift launch vehicle developed by NASA under the Apollo program for human exploration of the Moon. It was flown from 1967 to 1973. It was used for nine crewed flights to the Moon, and to launch Skylab, the first American space station.",
+    "firstLaunch": "Nov 9, 1967",
+    "height": 110,
+    "stages": 3,
+    "totalLaunches": 13,
+    "successfulLaunches": 12,
+    "payloadCapacity": 155,
+    "engine": "F-1",
+    "importantMissions": [
+      {
+        "name": "Apollo 11",
+        "date": "Jul 16, 1969",
+        "time": "13:32"
+      },
+      {
+        "name": "Apollo 12",
+        "date": "Nov 14, 1969",
+        "time": "16:22"
+      },
+      {
+        "name": "Apollo 14",
+        "date": "Jan 31, 1971",
+        "time": "21:03"
+      },
+      {
+        "name": "Apollo 15",
+        "date": "Jul 26, 1971",
+        "time": "13:34"
+      },
+      {
+        "name": "Apollo 16",
+        "date": "Apr 16, 1972",
+        "time": "17:54"
+      },
+      {
+        "name": "Apollo 17",
+        "date": "Dec 7, 1972",
+        "time": "05:33"
+      }
+    ],
+    "scale": 1,
+    "modelCreditCreator": "Stanley Creative",
+    "modelCreditLink": "https://sketchfab.com/3d-models/saturn-v-nasa-7a2c9709ff8144c8b3b18ec84b5e112e"
+  },
+  {
+    "id": 1,
+    "name": "Falcon 9",
+    "manufacturer": "SpaceX",
+    "description": "Falcon 9 is a partially reusable two-stage-to-orbit medium-lift launch vehicle designed and manufactured by SpaceX in the United States. The latest version of the first stage can return to Earth and be flown again multiple times.",
+    "firstLaunch": "Jun 4, 2010",
+    "height": 70,
+    "stages": 2,
+    "totalLaunches": 147,
+    "successfulLaunches": 145,
+    "payloadCapacity": 22.8,
+    "engine": "Merlin",
+    "importantMissions": [
+      {
+        "name": "DSCOVR",
+        "date": "Feb 11, 2015",
+        "time": "23:03"
+      },
+      {
+        "name": "1st Successful Land",
+        "date": "Dec 22, 2015",
+        "time": "01:29"
+      },
+      {
+        "name": "1st Droneship Land",
+        "date": "Apr 8, 2016",
+        "time": "20:43"
+      },
+      {
+        "name": "1st Reused booster",
+        "date": "Mar 30, 2017",
+        "time": "22:27"
+      },
+      {
+        "name": "Crew Dragon Demo-2",
+        "date": "May 30, 2020",
+        "time": "19:22"
+      },
+      {
+        "name": "Crew-1",
+        "date": "Nov 16, 2020",
+        "time": "00:27"
+      },
+      {
+        "name": "10th Booster Reuse",
+        "date": "May 9, 2021",
+        "time": "06:42"
+      },
+      {
+        "name": "Inspiration4",
+        "date": "Sep 16, 2021",
+        "time": "00:02"
+      }
+    ],
+    "scale": 0.7,
+    "modelCreditCreator": "Stanley Creative",
+    "modelCreditLink": "https://sketchfab.com/3d-models/falcon-9-spacex-394f7cf52d124bbd9db69f24d1ff2f08"
+  },
+  {
+    "id": 2,
+    "name": "Falcon Heavy",
+    "manufacturer": "SpaceX",
+    "description": "Falcon Heavy is a partially reusable heavy-lift launch vehicle designed and manufactured by SpaceX. It is derived from the Falcon 9 vehicle and consists of a strengthened Falcon 9 first stage as the center core with two additional Falcon 9 first stages serving as strap-on boosters.",
+    "firstLaunch": "Feb 6, 2018",
+    "height": 70,
+    "stages": 2,
+    "totalLaunches": 3,
+    "successfulLaunches": 3,
+    "payloadCapacity": 63.8,
+    "engine": "Merlin",
+    "importantMissions": [
+      {
+        "name": "Second flight",
+        "date": "Apr 11, 2019",
+        "time": "22:35"
+      },
+      {
+        "name": "Third flight",
+        "date": "Jun 25, 2019",
+        "time": "06:30"
+      }
+    ],
+    "scale": 0.007,
+    "modelCreditCreator": "AllThingsSpace",
+    "modelCreditLink": "https://sketchfab.com/3d-models/spacex-falcon-heavy-2f11453207944cedba00e2c6c1aa1269"
+  },
+  {
+    "id": 3,
+    "name": "Starship",
+    "manufacturer": "SpaceX",
+    "description": "Starship is a stainless-steel fully reusable rocket developed and constructed by the company SpaceX. The rocket will consist of the Super Heavy booster stage and the Starship spacecraft on top. In total, Starship may be the tallest and most powerful rocket ever built.",
+    "firstLaunch": "Not yet",
+    "height": 120,
+    "stages": 2,
+    "totalLaunches": 0,
+    "successfulLaunches": 0,
+    "payloadCapacity": 150,
+    "engine": "Raptor",
+    "importantMissions": [],
+    "scale": 0.13,
+    "modelCreditCreator": "clarence365",
+    "modelCreditLink": "https://sketchfab.com/3d-models/spacex-starship-sn20-bn4-orbital-prototype-c8d9fa8f5424493ba6ba0cfb0e8651db"
+  },
+  {
+    "id": 4,
+    "name": "Electron",
+    "manufacturer": "Rocket Lab",
+    "description": "Electron is a two-stage, partially recoverable orbital launch vehicle developed by Rocket Lab, an American aerospace company with a wholly owned New Zealand subsidiary. Electron was developed to service the commercial small satellite launch market.",
+    "firstLaunch": "May 25, 2017",
+    "height": 18,
+    "stages": 2,
+    "totalLaunches": 25,
+    "successfulLaunches": 22,
+    "payloadCapacity": 0.33,
+    "engine": "Rutherford",
+    "importantMissions": [
+      {
+        "name": "1st Booster recovery",
+        "date": "Nov 20, 2020",
+        "time": "02:20"
+      },
+      {
+        "name": "LC1 Pad B Inaguration",
+        "date": "Feb 28, 2022",
+        "time": "20:35"
+      }
+    ],
+    "scale": 0.3,
+    "modelCreditCreator": "Stanley Creative",
+    "modelCreditLink": "https://sketchfab.com/3d-models/electron-rocket-lab-0376dfab27574a909cb8714841379894"
+  },
+  {
+    "id": 5,
+    "name": "Mercury-Redstone",
+    "manufacturer": "NASA",
+    "description": "The Mercury-Redstone Launch Vehicle, designed for NASA's Project Mercury, was the first American crewed space booster. It was used for six sub-orbital Mercury flights from 1960–1961; culminating with the launch of the first, and 11 weeks later, the second American in space.",
+    "firstLaunch": "Nov 21, 1960",
+    "height": 25,
+    "stages": 1,
+    "totalLaunches": 6,
+    "successfulLaunches": 5,
+    "payloadCapacity": 0,
+    "engine": "Rocketdyne A-7",
+    "importantMissions": [
+      {
+        "name": "Carried Ham, a Chimpanzee",
+        "date": "Jan 31, 1961",
+        "time": "Unknown"
+      },
+      {
+        "name": "Carried astronaut Alan Shepard",
+        "date": "May 5, 1961",
+        "time": "Unknown"
+      },
+      {
+        "name": "Carried astronaut Gus Grissom",
+        "date": "Jul 21, 1961",
+        "time": "Unknown"
+      }
+    ],
+    "scale": 0.025,
+    "modelCreditCreator": "Stanley Creative",
+    "modelCreditLink": "https://sketchfab.com/3d-models/mercury-redstone-launch-vehicle-d1c09c4321e443cd956370dadabd04d9"
+  }
+]
